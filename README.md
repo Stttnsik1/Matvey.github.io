@@ -53,7 +53,7 @@
   <p>Stttnsik (Работодатель)</p>
   <p>Информация о работе:</p>
   <p>Нужно помочь с написанием кода, оплата происходит в монетах MATVEY JETTON на ваш криптокошелёк.</p>
-  <p>Оплата: 50 MATVEY</p>
+  <p>Оплата: 10 MATVEY</p>
   <form action="https://t.me/stttnsik" target="_blank">
     <button type="submit" class="floating-button">Написать Работодателю</button>
   </form>

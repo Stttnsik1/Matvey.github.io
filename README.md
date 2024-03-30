@@ -61,7 +61,7 @@
 
 <body>
 <div>
-<img src="https://i.postimg.cc/VN3KLvCc/5905293-C-ACB0-44-A9-A1-F0-C908-BE7-EDA5-E.png", width='75' height='75' alt="Лого">
+<img src="https://i.postimg.cc/d0sgb4yT/7-EA1-BEA3-A78-B-4-C0-B-822-C-005-F4838196-D.png", width='75' height='75' alt="Лого">
 <p>FaceToPlace (работодатель)</p>
 <p>Community manager</p>
 <p>Информация о работе:</p>

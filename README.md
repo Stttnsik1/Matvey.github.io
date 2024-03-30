@@ -58,6 +58,21 @@
     <button type="submit" class="floating-button">Написать Работодателю</button>
   </form>
 </div>
+
+<body>
+<div>
+<img src="https://i.postimg.cc/VN3KLvCc/5905293-C-ACB0-44-A9-A1-F0-C908-BE7-EDA5-E.png", width='75' height='75' alt="Лого">
+<p>FaceToPlace (работодатель)</p>
+<p>Community manager</p>
+<p>Информация о работе:</p>
+<p>Нужно помогать нашей экосистеме в поиске интересных проектов для партнерства и развития</p>
+<p>Оплата:1 TON</p>
+<form action="https://t.me/f2p_mg" target="_blank">
+	<button type="submit" class="floating-button">Написать Работодателю</button>
+  </form>
+  </body>
+</div>
+
   
 <hr>
   

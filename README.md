@@ -102,6 +102,20 @@
   </body>
 </div>
 
+<body>
+<div>
+<img src="https://i.postimg.cc/dVQJtNN8/B9-FB6-F1-E-98-E1-489-C-B264-09-A89-EADD2-FA.png", width='75' height='75' alt="Лого">
+<p>Levfl(Продавец)</p>
+<p>Информация о товаре:</p>
+<p>Продам канал,тема:чеки,5к подписчиков,хороший актив <a href='https://t.me/CryptoPllanet'>Канал</a>
+</p>
+<p>Цена:900₽</p>
+<form action="https://t.me/Levfl" target="_blank">
+	<button type="submit" class="floating-button">Написать Продавцу</button>
+  </form>
+  </body>
+</div>
+
 <hr>
   
 <p style="text-align: center;"><strong>На счёт добавления вашего предложения пишите сюда</strong></p>
